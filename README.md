@@ -7,6 +7,6 @@ Mr-ciph3r scan is tool that  helps developers or hackers to find potential secur
 4. Segmentation PT
 # Installation
 Run below command in kali linux Terminl
-## git clone 
+## git clone https://github.com/Mr-Ciph3r/Mr-ciph3r-scan.git
 # Usage for kali linux
 ./Mr-ciph3r_scan.sh
